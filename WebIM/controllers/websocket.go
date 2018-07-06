@@ -20,7 +20,7 @@ import (
 
 	"github.com/astaxie/beego"
 	"github.com/gorilla/websocket"
-	"github.com/beego/samples/WebIM/models"
+	"CYaRon/samples/WebIM/models"
 )
 
 // WebSocketController handles WebSocket requests.

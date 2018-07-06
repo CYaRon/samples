@@ -3,7 +3,7 @@ package controllers
 import (
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/cache"
-	"github.com/beego/samples/shorturl/models"
+	"CYaRon/samples/shorturl/models"
 )
 
 var (
